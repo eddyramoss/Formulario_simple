@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <h2> Formulario html-php</h2><span>eddy</span>
+    <h2> Formulario html-php</h2><span></span>
     <form method="post" action="imprimir.php">
         <h3>Ingrese sus datos</h3>
         <label for="nombre"> Nombre:</label>
