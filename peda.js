@@ -15,7 +15,7 @@ function pedaHellFish(cuates, house){
     }
     return pedaHellFish;
 }
-    var cuates =  10;
-    var house  = 'brito';
+    var cuates =  12;
+    var house  = 'Brito';
     
-    console.log('Aremos la peda con ' + cuates + ' cuates en su casa del '+ house);
+    console.log('Se armara la peda con ' + cuates + ' cuates en su casa del '+ house);
